@@ -22,5 +22,5 @@ Guia prático para iniciantes
 - `git branch`
 - `git merge`
 
-- [] Colocar o projeto na nuvem
+- [x] Colocar o projeto na nuvem
 
